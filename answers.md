@@ -38,4 +38,12 @@ Answer 8) commit e8b7e6ce222b89d7be4442a51d1709f2165ce06d (HEAD-> master)
 Author: Torin <mr001321@ohio.edu>
 Date:   Wed Jan 19 16:29:28 2022 -0500
 
-Answer 9) README.md and answers.md have been made into initial commits
+Answer 9) The changes to my terminal have been displayed on github
+
+Answer 10) No the changes I made online did not affect my terminal
+
+Answer 11) An error failed to push some refs
+
+Answer 12) Yes now it is reflected in my local copy
+
+Answer 13) .  ..  .git  .gitignore  README.md
